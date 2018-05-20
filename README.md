@@ -1,2 +1,2 @@
-# client-server_protei
+# client_protei
 Test task from Protei
